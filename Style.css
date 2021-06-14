@@ -1,0 +1,144 @@
+
+    
+
+.div1 {
+    width: 1500px;
+  height: 100px;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+    background-color: rgba(238, 209, 162, 0.5)  ;
+    border: 8px dotted rgba(156, 5, 5, 0.5);
+   }
+
+   .div2 {
+    width: 1500px;
+  height: 100px;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+    background-color: rgba(238, 209, 162, 0.5)  ;
+    border: 8px dotted rgba(156, 5, 5, 0.5);
+   }
+    
+    .p1 {
+    color: rgb(224, 40, 163);
+    text-align: left;
+    
+    }
+
+    .body1 {background-color:rgb(243, 236, 177);
+        background-image: url("https://i.imgur.com/ZZxBsVC.png");
+        justify-content: center;
+
+    }
+    .body2 {background-color:rgb(243, 236, 177);
+        background-image: url("https://i.imgur.com/aUhpEz3.jpg");
+    }
+    
+    .myButton {
+        box-shadow:inset 0px 1px 0px 0px #54a3f7;
+        background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+        background-color:#007dc1;
+        border-radius:3px;
+        border:1px solid #124d77;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:13px;
+        padding:6px 24px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #154682;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+        background-color:#0061a7;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    
+    .Button2 {
+        box-shadow: 0px 1px 0px 0px #fff6af;
+        background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+        background-color:#ffec64;
+        border-radius:6px;
+        border:1px solid #ffaa22;
+        display:inline-block;
+        cursor:pointer;
+        color:#333333;
+        font-family:Arial;
+        font-size:15px;
+        font-weight:bold;
+        padding:6px 24px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #ffee66;
+    }
+    .Button2:hover {
+        background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+        background-color:#ffab23;
+    }
+    .Button2:active {
+        position:relative;
+        top:1px;
+    }
+    
+    
+    
+    
+    
+    .BigWB {
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+        background-color:#f9f9f9;
+        border-radius:6px;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        cursor:pointer;
+        color:#666666;
+        font-family:Arial;
+        font-size:15px;
+        font-weight:bold;
+        padding:32px 76px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #ffffff;
+    }
+    .BigWB:hover {
+        background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+        background-color:#e9e9e9;
+    }
+    .BigWB:active {
+        position:relative;
+        top:1px;
+    }
+
+    .MedWB {
+        box-shadow:inset 0px 1px 0px 0px #ffffff;
+        background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+        background-color:#f9f9f9;
+        border-radius:6px;
+        border:1px solid #dcdcdc;
+        display:inline-block;
+        cursor:pointer;
+        color:#666666;
+        font-family:Arial;
+        font-size:15px;
+        font-weight:bold;
+        padding:16px 38px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #ffffff;
+    }
+    .MedWB:hover {
+        background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+        background-color:#e9e9e9;
+    }
+    .MedWB:active {
+        position:relative;
+        top:1px;
+    }
