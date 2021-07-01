@@ -52,6 +52,10 @@
         background-image: url("https://i.imgur.com/aUhpEz3.jpg");
     }
     
+    .body3{background-color:rgb(243, 236, 177);
+        background-image: url("https://i.imgur.com/7cDoyzS.jpeg");
+    }
+    
     .myButton {
         box-shadow:inset 0px 1px 0px 0px #54a3f7;
         background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
