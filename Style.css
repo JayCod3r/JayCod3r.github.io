@@ -26,14 +26,14 @@
    }
 
    .div3{
-    width: 1880px;
+    width: 1900px;
     height: 50px;
     
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-      background-color: rgb(3, 2, 1)  ;
+      background-color: rgb(75, 68, 61)  ;
       
    }
     
